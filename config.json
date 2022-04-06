@@ -1,0 +1,13 @@
+{
+    "token": "DISCORD_BOT_TOKEN",
+    "prefix": "!",
+    "host": "proxy.hypixel.net",
+    "version": "1.12.2",
+    "username": "YOUR_EMAIL_GOES_HERE",
+    "password": "YOUR_PASSWORD_GOES_HERE",
+    "auth": "microsoft_OR_mojang",
+    "admins": [
+        "YOUR_UUID_GOES_HERE_NOT_BOT_UUID"
+    ],
+    "announce_channel": "ID_OF_CHANNEL_TO_ANNOUNCE_PARTY_INVS"
+}
